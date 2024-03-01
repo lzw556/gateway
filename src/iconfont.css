@@ -1,0 +1,68 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4426567 */
+  src: url("iconfont.ttf?t=1708653594219") format("truetype");
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-cancelFirmware:before {
+  content: "\e64a";
+}
+
+.icon-compensate:before {
+  content: "\e7d7";
+}
+
+.icon-calibrate:before {
+  content: "\e7ca";
+}
+
+.icon-alert:before {
+  content: "\e7c4";
+}
+
+.icon-delete:before {
+  content: "\e7c3";
+}
+
+.icon-edit:before {
+  content: "\e7e1";
+}
+
+.icon-resetData:before {
+  content: "\e67d";
+}
+
+.icon-acquireData:before {
+  content: "\e602";
+}
+
+.icon-setting:before {
+  content: "\e78e";
+}
+
+.icon-resetSettings:before {
+  content: "\e63a";
+}
+
+.icon-upgradeFirmware:before {
+  content: "\e926";
+}
+
+.icon-systime:before {
+  content: "\e65b";
+}
+
+.icon-console:before {
+  content: "\e619";
+}
+
+.icon-restart:before {
+  content: "\e7b9";
+}

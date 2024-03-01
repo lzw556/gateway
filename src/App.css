@@ -1,0 +1,38 @@
+.gateway {
+  margin: auto;
+  width: 960px;
+}
+.switch {
+  text-align: center;
+}
+.device,
+.network {
+  display: none;
+}
+.device.selected,
+.network.selected {
+  display: block;
+}
+.section {
+  margin-top: 20px;
+}
+.section .ant-statistic-content-value {
+  font-size: 16px;
+}
+.setting-form-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  width: 50%;
+}
+.setting-form-item label {
+  flex: 1;
+}
+.section .iconfont {
+  margin-right: 8px;
+}
+@media (max-width: 960px) {
+  .gateway {
+    width: 100%;
+  }
+}
